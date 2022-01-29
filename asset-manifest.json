@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react_movie_service/static/js/main.bbf0218f.js",
+    "index.html": "/react_movie_service/index.html",
+    "main.bbf0218f.js.map": "/react_movie_service/static/js/main.bbf0218f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bbf0218f.js"
+  ]
+}
